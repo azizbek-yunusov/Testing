@@ -57,7 +57,7 @@ Hosted solutions: browserstack
 - Use eslint
 
 ## Reasons why we use vitest:
-
+vitest imkoniyatlari
 - Fast
 - ESM, TypeScript, JSX
 - Jest compatible API
