@@ -5,7 +5,7 @@ defineConfig({
     environment: "node",
     globals: true,
     // globalSetup: [],
-    // globalFiles: ['./fileurl'],
+    // globalFiles: ['./src/setupFiles.ts', '...'] | "./src/...../",
     // testTimeout: 5000
   }
 })
