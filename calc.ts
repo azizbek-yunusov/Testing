@@ -1,1 +1,7 @@
-export class Cacl {}
+export class Cacl {
+    current = ""
+
+    input(command: string) {
+        
+    }
+}
